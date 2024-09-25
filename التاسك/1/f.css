@@ -1,0 +1,22 @@
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 10px solid white;
+
+}
+body{
+   
+    background-color: grey;
+ 
+}
+.ss{ 
+    
+ position: absolute; left: 38%;  top: 40%;
+gap: 5px;
+
+
+}
+.R{ background-color: red;}
+.G{ background-color: green;}
+.P{ background-color: purple;}
